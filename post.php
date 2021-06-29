@@ -42,6 +42,11 @@
 				<?php }} else{echo ("no daata found");}?>
 				</div>
 				<?php }} ?>
+
+				<div class="relatedpost clear">
+					<h2>Popular articles</h2>
+					<a href="post.php"><img src="images" alt="post image"/></a>
+				</div>
 			</div>
 
 		</div>
